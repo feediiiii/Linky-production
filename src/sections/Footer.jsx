@@ -27,6 +27,7 @@ const Footer = () => {
 								Linky
 							</a>
 						</div>
+						
 						<div className=" flex items-start">
 							<h3 className="text-white/50 mt-2 font-light  text-left">
 								Tout le contenu et les matériaux présents sur ce site sont © Linky 2024. Tous droits réservés.

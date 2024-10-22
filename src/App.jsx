@@ -8,7 +8,11 @@ import Linky_buttons_sections from './sections/Links_buttons_sections';
 import First_options from './sections/First_options';
 import Second_options from './sections/Second _options';
 import Third_options from './sections/Third_options';
-import Footer from './Components/Footer';
+import Footer from './sections/Footer';
+// import { Button } from '@/components/ui/button';
+
+
+
 
 
 
@@ -41,6 +45,9 @@ function App() {
         <Third_options />
 
         <Footer />
+
+        <button>Click me</button>
+
     </>
   )
 }
